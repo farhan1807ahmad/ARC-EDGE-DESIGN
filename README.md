@@ -1,5 +1,5 @@
 # ARC-EDGE-DESIGN
-
+So ARC EDGE DESIGN is a website to engage with clients to showcase their work. It is purely made in HTML, CSS & JS where structure is create in HTML and styling is done in CSS and some event listener in JS.
 
 
 ![image alt](https://github.com/farhan1807ahmad/ARC-EDGE-DESIGN/blob/86e3e468d2f1221a75c86ee4ef3f74de87ff27ab/Home.PNG)
